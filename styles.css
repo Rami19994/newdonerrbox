@@ -83,6 +83,17 @@ body{
   font-weight: bold;
   font-size: 18px;
 }
+
+.locText {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.location a {
+  color: #ff6b00;
+  text-decoration: none;
+  font-weight: bold;
+}
 .searchWrap{
   display:flex;
   align-items:center;
@@ -279,6 +290,7 @@ body{
 @media (min-width: 920px){
   .card{grid-column: span 4}
 }
+
 
 
 
