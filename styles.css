@@ -65,13 +65,14 @@ body{
 
 .phone {
   margin-top: 4px;
-  font-size: 14px;
+  font-size: 18px;
 }
 
 .phone a {
   color: #ff6b00;
   text-decoration: none;
   font-weight: bold;
+  font-size: 20px; 
 }
 
 .phone a:hover {
@@ -275,4 +276,5 @@ body{
 @media (min-width: 920px){
   .card{grid-column: span 4}
 }
+
 
