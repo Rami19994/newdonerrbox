@@ -79,7 +79,10 @@ body{
   text-decoration: underline;
 }
 
-
+.callText {
+  font-weight: bold;
+  font-size: 18px;
+}
 .searchWrap{
   display:flex;
   align-items:center;
@@ -276,5 +279,6 @@ body{
 @media (min-width: 920px){
   .card{grid-column: span 4}
 }
+
 
 
