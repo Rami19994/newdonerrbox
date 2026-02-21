@@ -175,8 +175,8 @@ window.MENU = {
     {
       id: "m45",
       category: "faheta",
-      name: "ساندويش كرسبي ",
-      price: 5000,
+      name: "ساندويش طاووق ",
+      price: 3000,
       tag: "جديد",
       desc: "",
       image: "assets/krisby.jpeg"
@@ -447,3 +447,4 @@ window.MENU = {
       
   ]
 };
+
