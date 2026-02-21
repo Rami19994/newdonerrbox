@@ -179,7 +179,7 @@ window.MENU = {
       price: 3000,
       tag: "جديد",
       desc: "",
-      image: "assets/krisby.jpeg"
+      image: "assets/tawk.jpeg"
     },
 
     {
@@ -447,4 +447,5 @@ window.MENU = {
       
   ]
 };
+
 
