@@ -321,7 +321,7 @@ window.MENU = {
       price: 4000,
       tag: "دونر بوكس",
       desc: "",
-      image: "assets/donerd.webp"
+      image: "assets/donerdjj.jpeg"
     },
 
      {
@@ -447,6 +447,7 @@ window.MENU = {
       
   ]
 };
+
 
 
 
